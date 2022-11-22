@@ -1,0 +1,1 @@
+C:\Users\Ross\source\repos\MediaElementTest\MediaElementTestApp\MediaElementTestApp\MediaElementTestApp.csproj;x64

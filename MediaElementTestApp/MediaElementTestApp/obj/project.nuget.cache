@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "crlH8NY/nYpgs1x4L1oVj7mhlnf/t+NYFSXtE0mplBI614t8oWR+hT8MlZrU6SDkj/GLU04JncfHvHi5wncFgg==",
+  "dgSpecHash": "NHBrpdm9vCrWyubW/BhFtT/mp9/30R3RhiYL46GQNkANttgplmisy9s0VNH03qmdIR8NinKAr1QCiC5WNdt74g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ross\\source\\repos\\MediaElementTestApp\\MediaElementTestApp\\MediaElementTestApp.csproj",
+  "projectFilePath": "C:\\Users\\Ross\\source\\repos\\MediaElementTest\\MediaElementTestApp\\MediaElementTestApp\\MediaElementTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ross\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\1.0.0-build-667.82300\\communitytoolkit.maui.mediaelement.1.0.0-build-667.82300.nupkg.sha512",
     "C:\\Users\\Ross\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",

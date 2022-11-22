@@ -25078,11 +25078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross\\source\\repos\\MediaElementTestApp\\MediaElementTestApp\\MediaElementTestApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ross\\source\\repos\\MediaElementTest\\MediaElementTestApp\\MediaElementTestApp\\MediaElementTestApp.csproj",
       "projectName": "MediaElementTestApp",
-      "projectPath": "C:\\Users\\Ross\\source\\repos\\MediaElementTestApp\\MediaElementTestApp\\MediaElementTestApp.csproj",
+      "projectPath": "C:\\Users\\Ross\\source\\repos\\MediaElementTest\\MediaElementTestApp\\MediaElementTestApp\\MediaElementTestApp.csproj",
       "packagesPath": "C:\\Users\\Ross\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross\\source\\repos\\MediaElementTestApp\\MediaElementTestApp\\obj\\",
+      "outputPath": "C:\\Users\\Ross\\source\\repos\\MediaElementTest\\MediaElementTestApp\\MediaElementTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
